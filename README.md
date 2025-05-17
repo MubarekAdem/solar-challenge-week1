@@ -29,7 +29,7 @@ This repository contains the setup for the Solar Challenge Week 1 project, inclu
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/solar-challenge-week1.git
+   git clone https://github.com/MubarekAdem/solar-challenge-week1.git
    cd solar-challenge-week1
    ```
 
